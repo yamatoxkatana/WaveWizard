@@ -44,6 +44,8 @@ g++ -o wave_wizard main.cpp WaveWizard.cpp
 ./wave_wizard song.mp3 high_quality.mp3 320
 ```
 
+### License
+This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
  - Github: [thetentomushi](github.com/thetentomushi)
