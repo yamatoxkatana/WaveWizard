@@ -27,9 +27,9 @@ g++ -o wave_wizard main.cpp WaveWizard.cpp
 
 ### Command-Line Arguments
 
-- <input_file>: Path to low-quality MP3 file
-- <output_file>: Name of high-quality output file
-- <bitrate>: Desired bitrate in kbps (e.g., 192)
+- `<input_file>`: Path to low-quality MP3 file
+- `<output_file>`: Name of high-quality output file
+- `<bitrate>`: Desired bitrate in kbps (e.g., 192)
 
 ### Examples
 
