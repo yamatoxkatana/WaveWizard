@@ -46,7 +46,3 @@ g++ -o wave_wizard main.cpp WaveWizard.cpp
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
-
-### Contact
- - Github: [thetentomushi](github.com/thetentomushi)
- 
